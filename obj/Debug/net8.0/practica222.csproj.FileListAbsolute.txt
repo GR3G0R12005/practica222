@@ -1,0 +1,14 @@
+C:\Users\grego\OneDrive\Escritorio\practica222\bin\Debug\net8.0\practica222.exe
+C:\Users\grego\OneDrive\Escritorio\practica222\bin\Debug\net8.0\practica222.deps.json
+C:\Users\grego\OneDrive\Escritorio\practica222\bin\Debug\net8.0\practica222.runtimeconfig.json
+C:\Users\grego\OneDrive\Escritorio\practica222\bin\Debug\net8.0\practica222.dll
+C:\Users\grego\OneDrive\Escritorio\practica222\bin\Debug\net8.0\practica222.pdb
+C:\Users\grego\OneDrive\Escritorio\practica222\obj\Debug\net8.0\practica222.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grego\OneDrive\Escritorio\practica222\obj\Debug\net8.0\practica222.AssemblyInfoInputs.cache
+C:\Users\grego\OneDrive\Escritorio\practica222\obj\Debug\net8.0\practica222.AssemblyInfo.cs
+C:\Users\grego\OneDrive\Escritorio\practica222\obj\Debug\net8.0\practica222.csproj.CoreCompileInputs.cache
+C:\Users\grego\OneDrive\Escritorio\practica222\obj\Debug\net8.0\practica222.dll
+C:\Users\grego\OneDrive\Escritorio\practica222\obj\Debug\net8.0\refint\practica222.dll
+C:\Users\grego\OneDrive\Escritorio\practica222\obj\Debug\net8.0\practica222.pdb
+C:\Users\grego\OneDrive\Escritorio\practica222\obj\Debug\net8.0\practica222.genruntimeconfig.cache
+C:\Users\grego\OneDrive\Escritorio\practica222\obj\Debug\net8.0\ref\practica222.dll
